@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "onCreate: started");
         initImageBitmaps();
     }
+    //git
     private void initImageBitmaps(){
         Log.d(TAG, "initImageBitmaps: started");
         int b4fbc706dab2a70a96588309ed268a1a = 0;
